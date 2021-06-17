@@ -5,16 +5,15 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
-          <a href="#" className="btn btn-primary">
-            Hello hello
-          </a>
-        </header>
+        <header className="App-header"></header>
         <main>
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>coded by Anna</small>
+          <small>
+            coded by Anna, open sourced on{" "}
+            <a href="https://github.com/AnnaFLM/dictionary-app-react">Github</a>
+          </small>
         </footer>
       </div>
     </div>
