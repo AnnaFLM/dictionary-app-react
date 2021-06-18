@@ -9,11 +9,6 @@ export default function Dictionary() {
     console.log(response.data[0]);
   }
 
-  function handleKeywordChange(event) {
-    console.log(event.target.value);
-    setKeyword(event.target.value);
-  }
-
   function search(event) {
     event.preventDefault();
     alert(`searching for ${keyword}`);
@@ -22,6 +17,12 @@ export default function Dictionary() {
 
     axios.get(apiUrl).then(handleResponse);
   }
+
+  function handleKeywordChange(event) {
+    console.log(event.target.value);
+    setKeyword(event.target.value);
+  }
+
   return (
     <div className="Dictionary">
       <form onSubmit={search}>
