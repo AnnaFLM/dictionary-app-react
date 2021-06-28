@@ -11,7 +11,7 @@ function App() {
         </main>
         <footer className="App-footer">
           <small>
-            coded by Anna, open sourced on{" "}
+            Coded by Anna Mehnert, open sourced on{" "}
             <a href="https://github.com/AnnaFLM/dictionary-app-react">Github</a>
           </small>
         </footer>
