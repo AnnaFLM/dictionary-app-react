@@ -1,4 +1,19 @@
+.App {
+  padding: 60px 0 100px;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.App-header {
+  text-align: center;
+  font-size: 400%;
+}
+
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+body {
+  background: lavenderblush;
 }
