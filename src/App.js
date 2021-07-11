@@ -11,8 +11,9 @@ function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Anna Mehnert, open sourced on{" "}
-            <a href="https://github.com/AnnaFLM/dictionary-app-react">Github</a>
+            This project was coded by Anna Mehnert. It is open sourced on{" "}
+            <a href="https://github.com/AnnaFLM/dictionary-app-react">Github</a>{" "}
+            and hosted on Netlify.
           </small>
         </footer>
       </div>
