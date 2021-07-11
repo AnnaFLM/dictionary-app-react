@@ -6,7 +6,13 @@
 
 .App-header {
   text-align: center;
-  font-size: 400%;
+  font-size: 500%;
+  font-family: "Fuggles", cursive;
+  font-family: "Amatic SC", cursive;
+}
+
+.Headline {
+  font-size: 50px;
 }
 
 .App-footer {
