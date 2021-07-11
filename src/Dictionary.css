@@ -8,4 +8,6 @@
 
 .Dictionary input {
   width: 100%;
+  border: 1px solid #ddd;
+  padding: 6px 4px;
 }
