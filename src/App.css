@@ -1,3 +1,7 @@
+body {
+  background: lavenderblush;
+}
+
 .App {
   padding: 60px 0 100px;
   max-width: 950px;
@@ -18,8 +22,4 @@
 .App-footer {
   text-align: center;
   margin: 30px 0;
-}
-
-body {
-  background: lavenderblush;
 }
