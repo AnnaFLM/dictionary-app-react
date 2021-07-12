@@ -16,7 +16,8 @@ function App() {
           <small>
             This project was coded by Anna Mehnert. It is open sourced on{" "}
             <a href="https://github.com/AnnaFLM/dictionary-app-react">Github</a>{" "}
-            and hosted on <a href="">Netlify.</a>
+            and hosted on{" "}
+            <a href="https://wizardly-kalam-30dacc.netlify.app">Netlify</a>.
           </small>
         </footer>
       </div>
