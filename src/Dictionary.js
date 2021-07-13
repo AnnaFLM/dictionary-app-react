@@ -40,7 +40,7 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
       <section>
-        <p>Which word are you looking for?</p>
+        <p className="Word-search">Which word are you looking for?</p>
         <form onSubmit={search}>
           <input
             type="search"
