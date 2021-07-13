@@ -5,10 +5,9 @@ function App() {
   return (
     <div className="App">
       <div className="Container">
-        <header className="App-header">
-          <span className="Headline">The</span> Dictionary{" "}
-          <span className="Headline">App</span>
-        </header>
+        <h1 className="App-header">LOOK IT UP!</h1>
+        <p className="App-name">The Dictionary App</p>
+        <br />
         <main>
           <Dictionary />
         </main>
